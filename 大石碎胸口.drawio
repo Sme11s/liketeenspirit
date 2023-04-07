@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T02:03:20.677Z" agent="Mozilla/5.0 (Android 10; Mobile; rv:87.0) Gecko/87.0 Firefox/87.0" etag="4IhKGlPCzWSPQs_eNwMU" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-07T02:04:32.765Z" agent="Mozilla/5.0 (Android 10; Mobile; rv:87.0) Gecko/87.0 Firefox/87.0" etag="9gdytpdUZyof5zpfxxAu" version="21.1.5" type="github">
   <diagram name="第 1 页" id="QdRId8iW14xugF0lzdwk">
-    <mxGraphModel dx="398" dy="1883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6" dy="1170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry y="40" width="540" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ya9zr0wl_hQoRQG6ac8J-2" value="&lt;div&gt;渔王还想 543 4 \/&lt;/div&gt;&lt;div&gt;此刻他醉倒 543 54 \\&lt;/div&gt;&lt;div&gt;已有的部分修改后面的音可以导致之前的走向不同&lt;/div&gt;&lt;div&gt;将走向回归为音符，然后穷举其解释的可能性再选择其中一种将其补充完整，如此处将5434&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="100" y="-160" width="860" height="110" as="geometry" />
+          <mxGeometry x="310" y="-680" width="860" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
