@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T02:04:32.765Z" agent="Mozilla/5.0 (Android 10; Mobile; rv:87.0) Gecko/87.0 Firefox/87.0" etag="9gdytpdUZyof5zpfxxAu" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-08T13:37:13.584Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="lo2Ttf4eTWpEb6WvZhkx" version="21.1.4" type="github">
   <diagram name="第 1 页" id="QdRId8iW14xugF0lzdwk">
-    <mxGraphModel dx="6" dy="1170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1974" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,8 +10,8 @@
         <mxCell id="QmosnBfjX8igaR8JJhyt-31" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;人声音阶 : A#C#D#FG#(按此顺序视为12345)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;(五声音阶,八度音高按排列顺序从左往右)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry y="40" width="540" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ya9zr0wl_hQoRQG6ac8J-2" value="&lt;div&gt;渔王还想 543 4 \/&lt;/div&gt;&lt;div&gt;此刻他醉倒 543 54 \\&lt;/div&gt;&lt;div&gt;已有的部分修改后面的音可以导致之前的走向不同&lt;/div&gt;&lt;div&gt;将走向回归为音符，然后穷举其解释的可能性再选择其中一种将其补充完整，如此处将5434&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="310" y="-680" width="860" height="110" as="geometry" />
+        <mxCell id="ya9zr0wl_hQoRQG6ac8J-2" value="&lt;div&gt;渔王还想 543 4 \/&lt;/div&gt;&lt;div&gt;此刻他醉倒 543 54 \\&lt;/div&gt;&lt;div&gt;已有的部分修改后面的音可以导致之前的走向不同&lt;/div&gt;&lt;div&gt;将走向回归为音符，然后穷举其解释的可能性再选择其中一种将其补充完整，如此处将5434视为543 4,\-虽然这样也可以,但之前没有一个走向然后接单音的情况,就很不稳定&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="90" y="-570" width="1230" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
